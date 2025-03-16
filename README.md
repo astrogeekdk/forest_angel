@@ -1,9 +1,8 @@
 # Forest Angel 🌳🌲🌱
 ## Introduction 
-Hey there! This app is all about protecting the environment! A unique method. Deforestation is happening at an alarming rate. We all know. Trees are also being cut illegally. 
-So, this app is to check that.
-The basic idea is to keep a track of every single tree cut or planted. So, we can exactly determine the percentage tree cover after the app usage has been started.
-The first step to protecting the environment is to know our resources. 
+This is an app dedicated to protecting the environment through a unique and innovative approach! Deforestation is occurring at an alarming rate, and illegal tree cutting continues to threaten our forests. 
+
+This app aims to track every tree that is cut or planted hence providing a clear and accurate measure of tree cover changes over time. 
 
 ## Description of the App 📱
 The app uses firebase to store data at backend.
